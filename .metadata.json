@@ -1,9 +1,0 @@
-[
-  {
-    "package": "biolink",
-    "oncran": true
-  },
-  {
-    "package": "mimager"
-  }
-]
