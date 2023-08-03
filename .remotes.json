@@ -1,0 +1,9 @@
+[
+  {
+    "package": "tiledb",
+    "url": "https://github.com/tiledb-inc/TileDB-R",
+    "via": ["tiledbsoma"],
+    "branch": "0.20.2",
+    "from": "tiledbsoma"
+  }
+]

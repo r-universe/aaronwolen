@@ -2,6 +2,11 @@
 	path = .registry
 	url = https://github.com/aaronwolen/aaronwolen.r-universe.dev
 	branch = HEAD
+[submodule "tiledb"]
+	path = tiledb
+	url = https://github.com/tiledb-inc/TileDB-R
+	branch = 0.20.2
+	registered = false
 [submodule "tiledbsoma"]
 	path = tiledbsoma
 	url = https://github.com/single-cell-data/TileDB-SOMA
