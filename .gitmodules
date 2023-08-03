@@ -1,10 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/aaronwolen/aaronwolen.r-universe.dev
 	branch = HEAD
-[submodule "biolink"]
-	path = biolink
-	url = https://github.com/aaronwolen/biolink
-[submodule "mimager"]
-	path = mimager
-	url = https://github.com/aaronwolen/mimager
+[submodule "tiledbsoma"]
+	path = tiledbsoma
+	url = https://github.com/single-cell-data/TileDB-SOMA
+	branch = aaronwolen/use-remotes-for-tiledb-0.20.2
+	subdir = apis/r
